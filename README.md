@@ -41,7 +41,7 @@ ganache-cli --port 7545
 ```
 #### Open new terminal window and clone this repository
 ```
-git clone https://github.com/devpavan04/cryptoboys-NFT-marketplace.git
+git clone https://github.com/expressodaily/React-NFT-Marketplace.git
 ```
 #### Install dependencies
 ```
